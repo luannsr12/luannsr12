@@ -25,6 +25,6 @@
 <image alt="linkedin" src="https://image.flaticon.com/icons/svg/187/187185.svg" width="40px"></image> 
 </a>
 <a title="facebook" href="https://www.facebook.com/luan.alves.nsr/" target="_blank">
-<image alt="facebook" src="https://www.flaticon.com/svg/vstatic/svg/59/59439.svg" width="40px"></image> 
+<image alt="facebook" src="https://icons-for-free.com/iconfiles/png/512/facebook+good+like+mobile+share+social+icon-1320087262025128314.png" width="40px"></image> 
 </a>
 </p>
