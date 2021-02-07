@@ -15,12 +15,6 @@
 <code><img title="Python" alt="Python" width="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 </p>
 
-
-<p align="left">
-  <image align="center" alt="github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsr12&layout=compact&langs_count=8"/>
-   <image align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=luannsr12&show_icons=true"/>
-</p>
-
 <p align="left">
   <a href="https://instagram.com/psi.luan.alves" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
