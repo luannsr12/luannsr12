@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor PHP.</h3>
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://uploaddeimagens.com.br/images/003/073/061/full/computer-illustration.png?1612731879" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 <code><img title="Atom" alt="Atom" width="20" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
