@@ -16,6 +16,13 @@
 </p>
 
 <p align="left">
+ 🦎
+• @scriptmundo
+• @gestorlite
+• @foxgo.oficial
+</p>
+
+<p align="left">
   <a href="https://instagram.com/psi.luan.alves" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
   
