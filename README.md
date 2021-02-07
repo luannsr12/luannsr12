@@ -1,7 +1,10 @@
 <h1 align="center">Olá 👋, Eu sou o Luan</h1>
 <h3 align="center">Desenvolvedor PHP.</h3>
 
-<p align="center">
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
 <code><img title="Atom" alt="Atom" width="20" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
 <code><img title="Bootstrap" alt="Bootstrap" width="20" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"></code>
 <code><img title="Github" alt="Github" width="20" src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png"></code>
@@ -12,19 +15,19 @@
 <code><img title="Python" alt="Python" width="20" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></code>
 </p>
 
-<p align="center">
-<image align="center" alt="github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsr12&layout=compact&langs_count=8"/>
-<image align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=luannsr12&show_icons=true"/>
+
+<p align="left">
+  <image align="center" alt="github most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsr12&layout=compact&langs_count=8"/>
+   <image align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=luannsr12&show_icons=true"/>
 </p>
 
-<p align="center">
-<a title="instagram" href="https://instagram.com/psi.luan.alves" target="_blank">
-<image alt="instagram" src="https://image.flaticon.com/icons/svg/187/187207.svg" width="40px"></image> 
-</a>
-<a title="linkedin" href="https://www.linkedin.com/in/luan-alves-nsr/" target="_blank">
-<image alt="linkedin" src="https://image.flaticon.com/icons/svg/187/187185.svg" width="40px"></image> 
-</a>
-<a title="facebook" href="https://www.facebook.com/luan.alves.nsr/" target="_blank">
-<image alt="facebook" src="https://icons-for-free.com/iconfiles/png/512/facebook+good+like+mobile+share+social+icon-1320087262025128314.png" width="40px"></image> 
-</a>
-</p>
+<p align="left">
+  <a href="https://instagram.com/psi.luan.alves" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+  
+  <a href="https://www.linkedin.com/in/luan-alves-nsr/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+
+  <a href="https://www.facebook.com/luan.alves.nsr/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/exudojazz/"/></a>
+</p>  
