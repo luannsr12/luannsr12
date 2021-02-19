@@ -19,7 +19,6 @@
  🦎
 • @scriptmundo
 • @gestorlite
-• @foxgo.oficial
 </p>
 
 <p align="left">
