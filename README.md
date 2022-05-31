@@ -17,8 +17,7 @@
 
 <p align="left">
  🦎
-• @scriptmundo
-• @gestorlite
+• @psi.luan.alves
 </p>
 
 <p align="left">
