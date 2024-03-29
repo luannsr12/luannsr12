@@ -7,5 +7,5 @@
  Email: luanalvesnsr@gmail.com
 </p>
 <p align="left">
- WhatsApp: +554498339113
+ WhatsApp: +554598339113
 </p>
