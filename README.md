@@ -6,14 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" alt="Coding GIF" width="300" />
-</p>
-
----
-
-### 🛠️ Habilidades
-
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
@@ -22,11 +14,14 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-191970?style=flat&logo=electron&logoColor=white" />
 </p>
 
----
-
-### 📫 Vamos bater um papo?
+### 📫 Entre em contato
 
 <table>
   <tr>
