@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=4ADEDD&color=000" />
 </p>
 
-<hr style="margin: 1px 0; border: none; border-top: 1px solid #ccc;">
+<p align="center" >
+  <img src="line.png" />
+</p>
 
 
 
