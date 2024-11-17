@@ -23,8 +23,8 @@
   <img src="line.png?v=4" />
 </p>
 
-[![Instagram](https://img.shields.io/badge/-%234ADEDD.svg?logo=instagram&logoColor=white&style=for-the-badge&label=@luan.r.dev)](https://www.instagram.com/luan.r.dev)
-[![Youtube](https://img.shields.io/badge/-%234ADEDD.svg?logo=youtube&logoColor=&style=for-the-badge&label=@luanalvesdev)](https://www.youtube.com/@luanalvesdev)
+[![Instagram](https://img.shields.io/badge/-%234ADEDD.svg?logo=instagram&logoColor=4ADEDD&style=for-the-badge&label=@luan.r.dev)](https://www.instagram.com/luan.r.dev)
+[![Youtube](https://img.shields.io/badge/-%234ADEDD.svg?logo=youtube&logoColor=4ADEDD&style=for-the-badge&label=@luanalvesdev)](https://www.youtube.com/@luanalvesdev)
 
 <p align="left" >
   <img src="line.png?v=4" />
