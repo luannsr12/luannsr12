@@ -1,10 +1,8 @@
-<h1 align="center">👨‍💻 Olá, eu sou Luan Alves!</h1>
+<h1 align="left">Luan Alves!</h1>
 
-<p align="center">
-  <em>Desenvolvedor Full Stack | Aficionado por tecnologia e apreciador de café | Sempre aprendendo</em>
+<p align="left">
+  <em>Full Stack Developer | Backend Developer </em>
 </p>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=4ADEDD&color=000" />
@@ -20,13 +18,16 @@
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=4ADEDD&color=000" />
 </p>
 
+<hr style="margin: 1px 0; border: none; border-top: 1px solid #ccc;">
+
+
+
 ### 📫 Entre em contato
 
 [![Instagram](https://img.shields.io/badge/-%234ADEDD.svg?logo=instagram&logoColor=white&style=for-the-badge&label=@luan.r.dev)](https://www.instagram.com/luan.r.dev)
 [![Youtube](https://img.shields.io/badge/-%234ADEDD.svg?logo=youtube&logoColor=&style=for-the-badge&label=@luanalvesdev)](https://www.youtube.com/@luanalvesdev)
 
 
----
 
 ### 🌟 Projetos em Destaque
 
@@ -39,13 +40,13 @@
 ### 📈 Estatísticas
 
 <p  align="center" >
- <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26223%26project%3D%26in=0">
+ <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=4ADEDD&logoColor=4ADEDD&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26223%26project%3D%26in=0">
 </p>
 
 <div align="center">
   <a href="https://github.com/luannsr12/">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luannsr12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsr12&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsr12&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 ---
