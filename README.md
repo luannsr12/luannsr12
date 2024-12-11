@@ -1,5 +1,5 @@
 
-<img width="300" src="my-name.gif?v=1" />
+# Luan Alves
 
 <p align="left">
   <em>Full Stack Developer | Backend Developer </em>
