@@ -1,9 +1,5 @@
 
-# Luan Alves
-
-<p align="left">
-  <em>Full Stack Developer | Backend Developer </em>
-</p>
+<img src="cover.jpg" style="margin:10px;" width="100%" alt="ilustração de um computador" >
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=4ADEDD&color=000" />
