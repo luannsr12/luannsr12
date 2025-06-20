@@ -79,7 +79,7 @@
 </p>
 
 <p align="left">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTUxMzl0aXJiczJjMWk3bnJnZDU0d3BxZWkxc3NvaHp1aWlpcmZ4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Rgr4DFzKywKI/giphy.gif" alt="Cool GIF" width="300" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU2MmRwcnBydjV2ZGM2OWlnbHY4cW9tcHFzdTJoZmFhMmZydmJ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtaNTM9Dzesi5C8/giphy.gif" alt="Cool GIF" width="300" />
 </p>
 
 <p align="left">
