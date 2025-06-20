@@ -1,7 +1,7 @@
 
 <img src="assets/cover.jpg" style="margin:10px;" width="100%" alt="ilustração de um computador" >
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=gradle&logoColor=4ADEDD&color=000" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=4ADEDD&color=000" />
   <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=4ADEDD&color=000" />
@@ -11,15 +11,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=4ADEDD&color=000" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=4ADEDD&color=000" />
   <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/Sqlite-4479A1?style=flat&logo=sqlite&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=4ADEDD&color=000" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=4ADEDD&color=000" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=4ADEDD&color=000" />
   <img src="https://img.shields.io/badge/Android-FCC624?style=flat&logo=android&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/Apple-FCC624?style=flat&logo=apple&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/Electron-191970?style=flat&logo=electron&logoColor=4ADEDD&color=000" />
 </p>
 
 <p align="left" >
