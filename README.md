@@ -21,7 +21,7 @@
 </p>
 
 
-<p align="center" >
+<p align="left" >
 
   <a href="#" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-000?style=flat-square&labelColor=4ADEDD&logo=gmail&logoColor=white&link=mailto:luanalvesnsr@gmail.com" alt="Gmail"/>
