@@ -1,28 +1,80 @@
 
-<img src="assets/cover.jpg" style="margin:10px;" width="100%" alt="ilustração de um computador" >
+<img src="/assets/cover.jpg" style="margin:10px;" width="100%" alt="ilustração de um computador" >
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=gradle&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/Expo-61DAFB?style=flat&logo=expo&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/Asp-61DAFB?style=flat&logo=.net&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=4ADEDD&color=000" />
+
+<!-- GIthub-->
+<a href="https://github.com/luannsr12" target="_blank">
+  <img 
+    src="/assets/readme-social-icons/medium/light/github.svg" 
+    alt="ilustração de um computador" 
+  >
+</a>
+&nbsp;
+
+<!-- Instagram-->
+<a href="https://instagrem.com/luan.r.dev" target="_blank">
+  <img 
+    src="/assets/readme-social-icons/medium/light/instagram.svg" 
+    alt="ilustração de um computador" 
+  >
+</a>
+&nbsp;
+
+<!-- Linkedin-->
+<a href="https://www.linkedin.com/in/luan-alves-023454247/" target="_blank">
+  <img 
+    src="/assets/readme-social-icons/medium/light/linkedin.svg" 
+    alt="ilustração de um computador" 
+  >
+</a>
+&nbsp;
+
+<!-- Telegram-->
+<a href="https://t.me/luan_r_dev" target="_blank">
+  <img 
+    src="/assets/readme-social-icons/medium/light/telegram.svg" 
+    alt="ilustração de um computador" 
+  >
+</a>
+&nbsp;
+
+<!-- Twitter-->
+<a href="https://x.com/psi_luan_alves" target="_blank">
+  <img 
+    src="/assets/readme-social-icons/medium/light/twitter-x.svg" 
+    alt="ilustração de um computador" 
+  >
+</a>
+&nbsp;
+
+<!-- Youtube -->
+<a href="https://www.youtube.com/@LuanAlvesDev" target="_blank">
+  <img 
+    src="/assets/readme-social-icons/medium/light/youtube.svg" 
+    alt="ilustração de um computador" 
+  >
+</a>
+
 </p>
 
-<p align="left" >
-  <img src="assets/line.png?v=4" width="100%" height="1" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" style="margin-left:10px;" width="80" height="80" align="right">
 
+<p>
+  <br />
+  ✌ Fala! <strong>Luan</strong> aqui. Sou Full Stack Developer, e este é meu github simplão 😃<br>
+  🦄 Pode acessar meu portfólio de projetos clique aqui
+  > <a href="https://github.com/luannsr12/portfolio">PORTFÓLIO</a>  <
+</p>
+ 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ```javascript
-// arquivo: Luan.ts
+// file: Luan.ts
 
 import Developer from 'Luan';
 
+// Mais sobre mim
 class AboutMe extends Desenvolvedor {
   name = 'Luan Alves';
   role = 'Desenvolvimento Fullstack';
@@ -34,6 +86,7 @@ class AboutMe extends Desenvolvedor {
   clubs = ['Corinthians'];
 }
 
+// Minhas skills
 class Skills extends Developer {
   langs = ['PHP', 'JavaScript', 'TypeScript', 'Python', 'SQL'];
   backend = ['Laravel', 'Slim', 'Node.js'];
@@ -44,68 +97,45 @@ class Skills extends Developer {
 }
 
 export { AboutMe, Skills };
-
 ```
 
- <img min-width="400px" max-width="200px" width="200px" align="right" href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D26223">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<p >
 
-  <a href="#" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=mailto:luanalvesnsr@gmail.com" alt="Gmail"/>
-  </a>
-
-  <a href="#" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-000?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5545998339113" alt="WhatsApp"/>
-  </a>
-
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-000?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/luan.r.dev" alt="Instagram"/>
-  </a>
-</p>
-
-<p align="center" >
- <a href="https://github.com/luannsr12/portfolio" >
-    <img src="assets/image-portfolio.png" style="margin:10px;" width="1000px" alt="ilustração de um computador" >
- </a>
-</p>
-
-### 🏆 GitHub Profile Trophy
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Cool GIF" width="200"  align="right" />
 
 <p align="left">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=luannsr12&column=9&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+<br />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=gradle&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/Expo-61DAFB?style=flat&logo=expo&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/Asp-61DAFB?style=flat&logo=.net&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=4ADEDD&color=000" />
+ 
 
-<p align="left" >
-  <img src="assets/line.png?v=4" width="100%" height="1" />
-</p>
+<img
+  width="500"
+  src="https://github-profile-trophy.vercel.app/?username=luannsr12&&row=1&column=4&theme=darkhub&no-frame=true&no-bg=true&rank=-C,-?"
+/>
 
-<p  align="left" >
- <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=4ADEDD&logoColor=4ADEDD&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26223%26project%3D%26in=0">
 </p>
 
 <div align="left">
-  <a href="https://github.com/luannsr12/">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luannsr12&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luannsr12&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
-<p align="left" >
-  <img src="assets/line.png?v=4" width="100%" height="1" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<p align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU2MmRwcnBydjV2ZGM2OWlnbHY4cW9tcHFzdTJoZmFhMmZydmJ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtaNTM9Dzesi5C8/giphy.gif" alt="Cool GIF" width="300" />
-</p>
+<br />
+<br />
 
-<p align="left">
-  <em>Em caso de dúvida, meu caro amigo, sempre siga seu nariz</em>
+<p align="center" >
+ <a href="https://github.com/luannsr12/portfolio" >
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" style="margin:10px;" width="1000px" alt="ilustração de um computador" >
+ </a>
 </p>
