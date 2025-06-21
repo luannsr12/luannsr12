@@ -10,10 +10,7 @@
   <img src="https://img.shields.io/badge/Asp-61DAFB?style=flat&logo=.net&logoColor=4ADEDD&color=000" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=4ADEDD&color=000" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=mysql&logoColor=4ADEDD&color=000" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=4ADEDD&color=000" />
-  <img src="https://img.shields.io/badge/Android-FCC624?style=flat&logo=android&logoColor=4ADEDD&color=000" />
 </p>
 
 <p align="left" >
