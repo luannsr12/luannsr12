@@ -18,23 +18,50 @@
 </p>
 
 
-<p align="left" >
+```javascript
+// arquivo: Luan.ts
+
+import Developer from 'Luan';
+
+class AboutMe extends Desenvolvedor {
+  name = 'Luan Alves';
+  role = 'Desenvolvimento Fullstack';
+  born = '1999';
+  favorite = ['React', 'PHP'];
+  location = 'Paraná, BR' as const | 'Pernanbuco, BR' as const;
+  personality = 'Objetivo, direto, viciado em café sem açúcar e cético por natureza.';
+  mainStack = 'PHP (Backend)';
+  clubs = ['Corinthians'];
+}
+
+class Skills extends Developer {
+  langs = ['PHP', 'JavaScript', 'TypeScript', 'Python', 'SQL'];
+  backend = ['Laravel', 'Slim', 'Node.js'];
+  frontend = ['React', 'Vue', 'Alpine.js'];
+  mobile = ['React Native', 'Expo'];
+  tools = ['Docker', 'Git'];
+  outhers = ['JWT', 'REST APIs', 'RabbitMQ', 'Kanban', 'Zod', 'TailwindCSS'];
+}
+
+export { AboutMe, Skills };
+
+```
+
+ <img min-width="400px" max-width="200px" width="200px" align="right" href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D26223">
+
+<p >
 
   <a href="#" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-000?style=flat-square&labelColor=4ADEDD&logo=gmail&logoColor=white&link=mailto:luanalvesnsr@gmail.com" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-000?style=flat-square&labelColor=red&logo=gmail&logoColor=white&link=mailto:luanalvesnsr@gmail.com" alt="Gmail"/>
   </a>
 
   <a href="#" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-000?style=flat-square&labelColor=4ADEDD&logo=whatsapp&logoColor=white&link=https://wa.me/5545998339113" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-000?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5545998339113" alt="WhatsApp"/>
   </a>
 
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-000?style=flat-square&labelColor=4ADEDD&logo=instagram&logoColor=white&link=https://instagram.com/luan.r.dev" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/-Instagram-000?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/luan.r.dev" alt="Instagram"/>
   </a>
-</p>
-
-<p align="left" >
-  <img src="assets/line.png?v=4" width="100%" height="1" />
 </p>
 
 <p align="center" >
