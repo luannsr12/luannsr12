@@ -102,24 +102,27 @@ export { AboutMe, Skills };
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" alt="Cool GIF" width="200"  align="right" />
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="Cool GIF" width="50"  align="left" />
+
+
+### &nbsp;Skills
 
 <p align="left">
-<br />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=gradle&logoColor=4ADEDD&color=000" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=4ADEDD&color=000" />
-<img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=4ADEDD&color=000" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=4ADEDD&color=000" />
-<img src="https://img.shields.io/badge/Expo-61DAFB?style=flat&logo=expo&logoColor=4ADEDD&color=000" />
-<img src="https://img.shields.io/badge/Asp-61DAFB?style=flat&logo=.net&logoColor=4ADEDD&color=000" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=4ADEDD&color=000" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=4ADEDD&color=000" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=4ADEDD&color=000" />
- 
+<img src="https://img.shields.io/badge/Laravel-777BB4?style=for-the-badge&logo=laravel&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/Vite-F7DF1E?style=for-the-badge&logo=vite&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/Ts-F7DF1E?style=for-the-badge&logo=typescript&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/Node.js-61DAFB?style=for-the-badge&logo=node.js&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/Expo-61DAFB?style=for-the-badge&logo=expo&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/Asp-61DAFB?style=for-the-badge&logo=.net&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=4ADEDD&color=000" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=4ADEDD&color=000" />
+ <img src="https://img.shields.io/badge/Docker-F7DF1E?style=for-the-badge&logo=docker&logoColor=4ADEDD&color=000" />
 
 <img
   width="500"
-  src="https://github-profile-trophy.vercel.app/?username=luannsr12&&row=1&column=4&theme=darkhub&no-frame=true&no-bg=true&rank=-C,-?"
+  src="https://github-profile-trophy.vercel.app/?username=luannsr12&&row=1&column=5&theme=darkhub&no-frame=true&no-bg=true&rank=-C,-?"
 />
 
 </p>
