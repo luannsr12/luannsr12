@@ -6,7 +6,7 @@
 <!-- GIthub-->
 <a href="https://github.com/luannsr12" target="_blank">
   <img 
-    src="/assets/readme-social-icons/medium/light/github.svg" 
+    src="/assets/readme-social-icons/medium/filled/github.svg" 
     alt="ilustração de um computador" 
   >
 </a>
@@ -15,7 +15,7 @@
 <!-- Instagram-->
 <a href="https://instagrem.com/luan.r.dev" target="_blank">
   <img 
-    src="/assets/readme-social-icons/medium/light/instagram.svg" 
+    src="/assets/readme-social-icons/medium/filled/instagram.svg" 
     alt="ilustração de um computador" 
   >
 </a>
@@ -24,7 +24,7 @@
 <!-- Linkedin-->
 <a href="https://www.linkedin.com/in/luan-alves-023454247/" target="_blank">
   <img 
-    src="/assets/readme-social-icons/medium/light/linkedin.svg" 
+    src="/assets/readme-social-icons/medium/filled/linkedin.svg" 
     alt="ilustração de um computador" 
   >
 </a>
@@ -33,7 +33,7 @@
 <!-- Telegram-->
 <a href="https://t.me/luan_r_dev" target="_blank">
   <img 
-    src="/assets/readme-social-icons/medium/light/telegram.svg" 
+    src="/assets/readme-social-icons/medium/filled/telegram.svg" 
     alt="ilustração de um computador" 
   >
 </a>
@@ -42,7 +42,7 @@
 <!-- Twitter-->
 <a href="https://x.com/psi_luan_alves" target="_blank">
   <img 
-    src="/assets/readme-social-icons/medium/light/twitter-x.svg" 
+    src="/assets/readme-social-icons/medium/filled/twitter-x.svg" 
     alt="ilustração de um computador" 
   >
 </a>
@@ -51,7 +51,7 @@
 <!-- Youtube -->
 <a href="https://www.youtube.com/@LuanAlvesDev" target="_blank">
   <img 
-    src="/assets/readme-social-icons/medium/light/youtube.svg" 
+    src="/assets/readme-social-icons/medium/filled/youtube.svg" 
     alt="ilustração de um computador" 
   >
 </a>
