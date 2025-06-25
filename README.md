@@ -77,7 +77,7 @@ import Developer from 'Luan';
 // Mais sobre mim
 class AboutMe extends Developer {
   name = 'Luan Alves';
-  role = 'Desenvolvimento Fullstack';
+  role = 'Desenvolvedor Fullstack';
   born = '1999';
   favorite = ['React', 'PHP'];
   location = 'Paraná, BR' as const | 'Pernanbuco, BR' as const;
