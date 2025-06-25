@@ -75,7 +75,7 @@
 import Developer from 'Luan';
 
 // Mais sobre mim
-class AboutMe extends Desenvolvedor {
+class AboutMe extends Developer {
   name = 'Luan Alves';
   role = 'Desenvolvimento Fullstack';
   born = '1999';
