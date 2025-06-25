@@ -63,7 +63,7 @@
 <p>
   <br />
   ✌ Fala! <strong>Luan</strong> aqui. Sou Full Stack Developer, e este é meu github simplão 😃<br>
-  🦄 Pode acessar meu portfólio de projetos clique aqui
+  🦄 Para acessar meu portfólio de projetos clique aqui
   > <a href="https://github.com/luannsr12/portfolio">PORTFÓLIO</a>  <
 </p>
  
