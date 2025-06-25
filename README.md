@@ -4,57 +4,7 @@
 <p align="left">
 
 <!-- GIthub-->
-<a href="https://github.com/luannsr12" target="_blank">
-  <img 
-    src="/assets/readme-social-icons/medium/filled/github.svg" 
-    alt="ilustração de um computador" 
-  >
-</a>
-&nbsp;
-
-<!-- Instagram-->
-<a href="https://instagrem.com/luan.r.dev" target="_blank">
-  <img 
-    src="/assets/readme-social-icons/medium/filled/instagram.svg" 
-    alt="ilustração de um computador" 
-  >
-</a>
-&nbsp;
-
-<!-- Linkedin-->
-<a href="https://www.linkedin.com/in/luan-alves-023454247/" target="_blank">
-  <img 
-    src="/assets/readme-social-icons/medium/filled/linkedin.svg" 
-    alt="ilustração de um computador" 
-  >
-</a>
-&nbsp;
-
-<!-- Telegram-->
-<a href="https://t.me/luan_r_dev" target="_blank">
-  <img 
-    src="/assets/readme-social-icons/medium/filled/telegram.svg" 
-    alt="ilustração de um computador" 
-  >
-</a>
-&nbsp;
-
-<!-- Twitter-->
-<a href="https://x.com/psi_luan_alves" target="_blank">
-  <img 
-    src="/assets/readme-social-icons/medium/filled/twitter-x.svg" 
-    alt="ilustração de um computador" 
-  >
-</a>
-&nbsp;
-
-<!-- Youtube -->
-<a href="https://www.youtube.com/@LuanAlvesDev" target="_blank">
-  <img 
-    src="/assets/readme-social-icons/medium/filled/youtube.svg" 
-    alt="ilustração de um computador" 
-  >
-</a>
+[![GIthub](/assets/readme-social-icons/medium/filled/github.svg)](https://github.com/luannsr12) &nbsp; [![Instagram](/assets/readme-social-icons/medium/colored/instagram.svg)](https://instagram.com/luan.r.dev) &nbsp; [![Linkedin](/assets/readme-social-icons/medium/colored/linkedin.svg)](https://www.linkedin.com/in/luan-alves-023454247/) &nbsp; [![Telegram](/assets/readme-social-icons/medium/colored/telegram.svg)](https://t.me/luan_r_dev) &nbsp; [![X](/assets/readme-social-icons/medium/colored/twitter.svg)](https://x.com/psi_luan_alves) &nbsp; [![Youtube](/assets/readme-social-icons/medium/colored/youtube.svg)](https://www.youtube.com/@LuanAlvesDev)
 
 </p>
 
