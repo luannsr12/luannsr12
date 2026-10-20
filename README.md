@@ -1,5 +1,5 @@
 <pre>
-1UP <b>LUAN ALVES</b>     SCORE <b>1999</b>     XP <b>27</b>
+1UP <b>LUAN ALVES</b>     SCORE <b>1999</b>     LVL <b>27</b>
         
               ▄ ▀▄   ▄▀ ▄
               █▄███████▄█
