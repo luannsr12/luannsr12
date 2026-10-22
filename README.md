@@ -1,9 +1,9 @@
 <pre>
  1UP <b>LUAN ALVES</b>    HI-SCORE <b>1999</b>
-
+ 
      ▀▄██▄▀  ▄▄███▄▄  ▄█▀▀█▄
     █▀████▀█ ▀▀█▀█▀▀ ███▀▀███
-       |        │       ┇
+       |        │       |
                ▄█▄
  
       <b>SOFTWARE</b>  ◆  ENGINEER
