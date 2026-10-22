@@ -9,7 +9,7 @@
 
 ✦ <a href="https://github.com/luannsr12">SIDE QUESTS</a> . . . . . . (PROJECTS)
 ✦ <a href="https://instagram.com/luan.r.dev">LET'S TALK</a> . . . . . . . . . .(IG)
-✦ <a href="https://wa.me/5545998339113">STILL WANNA CHAT?</a> . . . . . (WPPP)
+✦ <a href="https://wa.me/5545998339113">STILL WANNA CHAT?</a> . . . . . .(WPP)
 ✦ <a href="https://github.com/luannsr12?tab=repositories">EXPLORE</a> . . . . . . . . . (GITHUB)
 </pre>
 </div>
